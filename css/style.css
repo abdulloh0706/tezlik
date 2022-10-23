@@ -67,7 +67,7 @@ label{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: sticky;
+    position: relative;
     top: 70px;
 }
 .title{
